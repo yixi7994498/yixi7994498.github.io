@@ -1,1 +1,1 @@
-<TABLE><TD BACKGROUND="javascript:javascript:alert(1)">
+<TABLE><TD BACKGROUND="test">
